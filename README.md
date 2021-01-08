@@ -1,7 +1,4 @@
 # Recommendations-with-IBM
-
-
-# Recommendations with IBM Project
 ## Installation
 **Importing Libraries**</br>
 * numpy
