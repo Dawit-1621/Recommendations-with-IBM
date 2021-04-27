@@ -12,6 +12,7 @@ This project you will analyze the interactions that users have with articles on 
 </br>Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
 In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform. You can create your own account to become a part of their community, and get a better understanding of their data by creating an account on the platform here(https://dataplatform.cloud.ibm.com/login).
+
 ## Porject Descriptions 
 There are four components in this project. </br>
 
