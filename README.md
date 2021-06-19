@@ -6,7 +6,6 @@
 * matplotlib
 * pickle
 * sklearn
-
 ## Project Motivation
 This project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. The data available on the IBM Watson Studio platform.
 ![image](https://user-images.githubusercontent.com/23136710/111276653-9a559780-8648-11eb-83f3-a47eac17a19a.png)
