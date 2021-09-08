@@ -25,6 +25,8 @@ In order to build better recommendations for the users of IBM's platform, I coul
 
 **IV. Matrix Factorization** </br>
 
+
+
 **V. Extras & Concluding** </br>
 
 ## Licensing, Authors, Acknowledgements
